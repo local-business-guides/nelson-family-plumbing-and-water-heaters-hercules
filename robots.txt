@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/nelson-family-plumbing-and-water-heaters-hercules/sitemap.xml
