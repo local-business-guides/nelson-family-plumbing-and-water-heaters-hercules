@@ -23,6 +23,9 @@
 - [Water Heater Repair Hercules for Homeowners](https://local-business-guides.github.io/nelson-family-plumbing-and-water-heaters-hercules/water-heater-repair-hercules/): Water Heater Repair Hercules from a family-owned plumbing team. Get help finding the cause and restoring hot water at home. Call Nelson Family Plumbing today.
 - [Water Heater Installation Hercules for Your Home](https://local-business-guides.github.io/nelson-family-plumbing-and-water-heaters-hercules/water-heater-installation-hercules/): Water Heater Installation Hercules with a family-owned plumbing team. Discuss your home's needs and installation options. Call Nelson Family Plumbing today.
 
+## Newsroom
+- [Nelson Family Plumbing & Water Heaters Publishes Guide to Plumber In Hercules CA](https://local-business-guides.github.io/nelson-family-plumbing-and-water-heaters-hercules/news/2026-11-07-nelson-family-plumbing-water-heaters-publishes/): Nelson Family Plumbing & Water Heaters released a Hercules plumbing guide, with related video, podcast and audio versions. (2026-11-07)
+
 ## Pages
 - [Plumber in Hercules, California](https://local-business-guides.github.io/nelson-family-plumbing-and-water-heaters-hercules/): Get help with plumbing and water heater needs in Hercules, with a family-owned business available around the clock. Call +1510-650-0300.
 - [About Nelson Family Plumbing & Water Heaters](https://local-business-guides.github.io/nelson-family-plumbing-and-water-heaters-hercules/about/): About Nelson Family Plumbing & Water Heaters, Hercules.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/nelson-family-plumbing-and-water-heaters-hercules/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/nelson-family-plumbing-and-water-heaters-hercules/news/rss.xml)
 - [Main resource site](https://nelson-family-plumbing-hercules.localbusinesses1.chatgpt.site)
